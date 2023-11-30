@@ -364,9 +364,9 @@ class _DashboardState extends State<Dashboard> {
                   width: 7,
                   height: 7,
                   decoration: ShapeDecoration(
-                    color: Color(0xFF787878),
+                    color: const Color.fromARGB(255, 233, 30, 172),
                     shape: OvalBorder(
-                      side: BorderSide(width: 1.0, color: Color(0xFF787878)),
+                      side: BorderSide(width: 1.0, color: const Color.fromARGB(255, 233, 30, 172),),
                     ),
                   ),
                 ),
@@ -378,7 +378,7 @@ class _DashboardState extends State<Dashboard> {
                   height: 7,
                   decoration: ShapeDecoration(
                     shape: OvalBorder(
-                      side: BorderSide(width: 1.0, color: Color(0xFF787878)),
+                      side: BorderSide(width: 1.0, color: const Color.fromARGB(255, 233, 30, 172),),
                     ),
                   ),
                 ),
@@ -390,7 +390,7 @@ class _DashboardState extends State<Dashboard> {
                   height: 7,
                   decoration: ShapeDecoration(
                     shape: OvalBorder(
-                      side: BorderSide(width: 1.0, color: Color(0xFF787878)),
+                      side: BorderSide(width: 1.0, color: Color.fromARGB(255, 233, 30, 172),),
                     ),
                   ),
                 ),
@@ -402,7 +402,7 @@ class _DashboardState extends State<Dashboard> {
                   height: 7,
                   decoration: ShapeDecoration(
                     shape: OvalBorder(
-                      side: BorderSide(width: 1.0, color: Color(0xFF787878)),
+                      side: BorderSide(width: 1.0, color: Color.fromARGB(255, 233, 30, 172)),
                     ),
                   ),
                 ),
